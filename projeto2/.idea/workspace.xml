@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6bb9c72-4a3d-4d0e-9fa2-0005ebe9f873" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Syncronized_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/projeto2/projeto2$MeuRunnable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/projeto2/projeto2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projeto2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projeto2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto3/out/production/projeto3/projeto3$MeuRunnable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto3/out/production/projeto3/projeto3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto3/projeto3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto3/src/projeto3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../syncronized_2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../syncronized_2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../syncronized_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../syncronized_2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../syncronized_2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../syncronized_2/syncronized_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../threads/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2G6VgH5NHUyhn2Jsf5HwQvR2Un0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6bb9c72-4a3d-4d0e-9fa2-0005ebe9f873" name="Changes" comment="" />
+      <created>1665709131024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665709131024</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
